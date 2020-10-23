@@ -1,7 +1,8 @@
 # Allowance-Checker
+#### Helps in Keeping your Spending in Check! 💸🔒
 
 - It helps in giving allowance to a child by a Parent.
-- Restriction is prevalent on his spending and the money given to him
+- Restriction is prevalent on his spending and the money given to him.
 
 ### Tech Used 
 
