@@ -10,4 +10,6 @@
 - Remix IDE
 - Ganache
 
-Transactions were made using Local Ganache Development Server.
+Transactions were made using Local Ganache Development Server. The 10 Test Accounts with 100 Ether each were used for the Transfer of money from one account to the other.
+
+< Made with ❤️ by Eshaan Khurana. >
